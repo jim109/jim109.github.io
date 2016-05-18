@@ -1,8 +1,3 @@
-—
-layout: post
-title: Breve Historia de GIT
-—
-
 # BREVE HISTORIA DE GIT
 
 ![](https://jimmyosmablog.files.wordpress.com/2016/05/logogit.png?w=584)
