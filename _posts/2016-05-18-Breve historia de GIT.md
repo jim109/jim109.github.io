@@ -15,4 +15,4 @@ En 2005, la relación entre la comunidad que desarrollaba el núcleo de Linux y 
 
 Desde su nacimiento en 2005, Git ha evolucionado y madurado para ser fácil de usar y aún conservar estas cualidades iniciales. Es tremendamente rápido, muy eficiente con grandes proyectos, y tiene un increíble sistema de ramificación (branching) para desarrollo no lineal.
 
-[Fuente.](http://git-scm.com)
+[Fuente](http://git-scm.com)
