@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jimmy Osma
-email: josma109@gmail.com
+title: Redco Ingenieria y Telecomunicaciones
+email: gerencia@redcoit.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ingeniero de Sistemas, Geek, Desarrollador Web. Dando conocimiento al mundo, facilitando las comunicaciones y el entendimiento de los sistemas en la sociedad.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.redcoit.com" # the base hostname & protocol for your site
 twitter_username: jimwy109
